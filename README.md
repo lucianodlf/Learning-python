@@ -1,46 +1,17 @@
 # Hello Python
 
-[![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.88.0+-00a393?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)](https://python.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-00684A?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://python.org)
 
 ## Curso para aprender el lenguaje de programación Python desde cero y para principiantes
 
+![](./Images/header.jpg)
+
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
-
-### 🐍 CADA SEMANA UNA NUEVA CLASE EN DIRECTO 🐍
-##### Si consideras útil esta actividad, apóyala haciendo "★ Star" en el repositorio. ¡Gracias!
-
-> ---
-> Estoy llevando a cabo un CURSO DESDE CERO gratis para aprender PYTHON en BACKEND.
-> 
-> Veremos temas como:
-> 
-> * API REST
-> * CRUD
-> * Autenticación
-> * Base de datos
-> * Despliegue en servidor
-> 
-> **🔴 SIGUIENTE CLASE: Miércoles 14 de Diciembre a las 20:00 (hora España)**
-
-> 🗓 En [Discord](https://discord.gg/mouredev) tienes creado un [evento](https://discord.gg/mouredev?event=1051412181721305158) para que consultes la hora de tu país y añadas un recordatorio.
-> 
-> Mientras, aprovecha para practicar unos [retos de programación](https://retosdeprogramacion.com/semanales2022) y así ir mejorando poco a poco.
-> 
-> *Finalizada la clase, se actualizará el repositorio con los nuevos recursos*
-> 
-> ---
+> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
 ## Clases en vídeo
-
-### [EN CURSO] Backend desde cero
-
-Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
-
-> Código: Directorio "Backend" en el proyecto
-
-* [Clase 1 - 24/11/2022 - Hola Mundo en FastAPI](https://www.twitch.tv/videos/1661716599)
-* [Clase 2 - 01/12/2022 - Operaciones con GET y peticiones HTTP](https://www.twitch.tv/videos/1667582141)
-* [Clase 3 - 08/12/2022 - Operaciones con POST, PUT, DELETE, códigos HTTP y Routers](https://www.twitch.tv/videos/1673759045)
 
 ### Curso de fundamentos desde cero
 
@@ -89,42 +60,61 @@ Curso en el que continuamos aprendiendo Python desde sus bases, siguiendo la rut
 * [Lección 9 - Manejo de paquetes](https://youtu.be/TbcEqkabAWU?t=24010)
 * [Próximos pasos](https://youtu.be/TbcEqkabAWU?t=26228)
 
+### Backend desde cero
+
+Curso en el que aprenderemos a utilizar Python para backend e implementaremos un API REST con autenticación, base de datos y desplegaremos el proyecto en un servidor real.
+
+> Código: Directorio "Backend" en el proyecto
+
+<a href="https://youtu.be/_y9qQZXE24A"><img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+* [Introducción](https://youtu.be/_y9qQZXE24A)
+* [Lección 01 - ¿Qué es un backend?](https://youtu.be/_y9qQZXE24A?t=125)
+* [Lección 02 - API y FastAPI](https://youtu.be/_y9qQZXE24A?t=834)
+* [Lección 03 - Type Hints](https://youtu.be/_y9qQZXE24A?t=1810)
+* [Lección 04 - Configuración FastAPI](https://youtu.be/_y9qQZXE24A?t=2629)
+* [Lección 05 - Hola mundo](https://youtu.be/_y9qQZXE24A?t=3504)
+* [Lección 06 - Operación GET](https://youtu.be/_y9qQZXE24A?t=5382)
+* [Lección 07 - Peticiones HTTP](https://youtu.be/_y9qQZXE24A?t=5925)
+* [Lección 08 - Creación API](https://youtu.be/_y9qQZXE24A?t=6099)
+* [Lección 09 - Path y Query](https://youtu.be/_y9qQZXE24A?t=7510)
+* [Lección 10 - Operaciones POST, PUT y DELETE](https://youtu.be/_y9qQZXE24A?t=8529)
+* [Lección 11 - HTTP status codes](https://youtu.be/_y9qQZXE24A?t=11072)
+* [Lección 12 - Routers](https://youtu.be/_y9qQZXE24A?t=12475)
+* [Lección 13 - Recursos estáticos](https://youtu.be/_y9qQZXE24A?t=13618)
+* [Lección 14 - Autorización OAuth2](https://youtu.be/_y9qQZXE24A?t=14094)
+* [Lección 15 - OAuth2 JWT](https://youtu.be/_y9qQZXE24A?t=17664)
+* [Lección 16 - MongoDB](https://youtu.be/_y9qQZXE24A?t=20480)
+* [Lección 17 - MongoDB Atlas](https://youtu.be/_y9qQZXE24A?t=25470)
+* [Lección 18 - Despliegue en Deta](https://youtu.be/_y9qQZXE24A?t=27335)
+* [Lección Próximos pasos](https://youtu.be/_y9qQZXE24A?t=28484)
+
+### Extra: 15 curiosidades sobre Python
+
+Y para finalizar... ¿Quieres saber aun más sobre él? Aquí tienes 15 curiosidades que quizás no conozcas sobre el lenguaje.
+
+<a href="https://youtu.be/q2lCm2KAz3w"><img src="http://i3.ytimg.com/vi/q2lCm2KAz3w/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
 ## Información importante y preguntas frecuentes
 
-* **¿Cómo está estructurado el proyecto y el código?**
-	* Actualmente tienes tres directorios, "Basic", "Intermediate" y "Backend", correspondientes a cómo están agrupados los cursos.
+Actualmente el curso está en pausa. Se han finalizados los bloques básico, intermedio y backend, y ese era el objetivo inicial del proyecto.
+No descarto añadir nuevas lecciones a futuro, pero creo que por el momento puede servir de base a cualquier persona que quiera empezar a aprender este lenguaje.
 
-* **¿Las clases nuevas quedan grabadas?**
-	* Todos los directos de Twitch están disponibles 60 días en la sección [vídeos](https://twitch.tv/mouredev/videos).
+* Recuerda que he creado en el [Discord](https://discord.gg/mouredev) un canal "🐍python" para que puedas comentar lo que quieras.
+* En el momento que el curso continúe, actualizaré el repositorio y avisaré en redes.
 
-* **¿Puedo asistir a las clases en directo si no he visto las anteriores?**
-	* Sí. Son clases independientes en las que hablo de nuevo de conceptos anteriores para que se entiendan de nuevo. Por supuesto, es recomendable que poco a poco visualices las clases anteriores.
+¡Muchísimas gracias por todo el apoyo mostrado!
 
-* **¿Se subirá a YouTube?**
-	* No te preocupes, antes de que se cumplan los 60 días de Twitch, iré publicando las clases agrupadas en YouTube.
+## Enlaces de interés
 
-* **¿Harás un curso?**
-	* Agruparé lecciones en YouTube para crear cursos por nivel. Actualmente ya existe el de [fundamentos desde cero](https://youtu.be/Kp4Mvapo5kc) e [intermedio](https://youtu.be/TbcEqkabAWU).
-
-* **¿Hasta dónde llegará el curso?**
-	* Mi idea es repasar los conceptos básicos hasta llegar a crear un backend (en principio).
-
-* **¿Cuándo será la próxima clase?**
-	* Te recomiendo que me sigas en redes, sobre todo en [Discord](https://discord.gg/mouredev) e [Instagram](https://instagram.com/mouredev) donde creo eventos a diario con la hora de emisión (así podrás ver qué hora es en tu país).
-	* También he creado en el Discord un canal "🐍curso-python" para que puedas comentar lo que quieras.
-	* Una vez finalizada la clase subiré los ficheros de código a este repositorio.
-
----
-
-### Enlaces de interés
 * [Web oficial de Python](https://www.python.org/)
 * [Tutorial oficial de Python en Español](https://docs.python.org/es/3/tutorial/index.html)
 * [Repo 30 días de Python](https://github.com/Asabeneh/30-Days-Of-Python)
 * [Juego Codédex para aprender Python](https://www.codedex.io/)
 * [Visual Studio Code](https://code.visualstudio.com/): El editor que estoy usando
 * [FastAPI](https://fastapi.tiangolo.com/es/): El framework para crear nuestra API Backend
-
----
+* [MongoDB](https://www.mongodb.com/): La base de datos que utiliza nuestro backend
+* [Deta](https://www.deta.sh/): Para desplegar nuestra API en la nube
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 

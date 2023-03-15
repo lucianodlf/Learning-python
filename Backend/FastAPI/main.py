@@ -1,4 +1,4 @@
-# Clase en vídeo (24/11/2022): https://www.twitch.tv/videos/1661716599
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A
 
 ### Hola Mundo ###
 
@@ -7,13 +7,26 @@
 # Instala FastAPI: pip install "fastapi[all]"
 
 from fastapi import FastAPI
-from routers import products, users
+from routers import products, users, basic_auth_users, jwt_auth_users, users_db
+from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
 
-# Routers - Clase en vídeo (08/12/2022): https://www.twitch.tv/videos/1673759045
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=12475
 app.include_router(products.router)
 app.include_router(users.router)
+
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=14094
+app.include_router(basic_auth_users.router)
+
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=17664
+app.include_router(jwt_auth_users.router)
+
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=20480
+app.include_router(users_db.router)
+
+# Clase en vídeo: https://youtu.be/_y9qQZXE24A?t=13618
+app.mount("/static", StaticFiles(directory="static"), name="static")
 
 
 # Url local: http://127.0.0.1:8000
